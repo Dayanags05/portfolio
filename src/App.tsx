@@ -73,7 +73,7 @@ function App() {
       {/* Header */}
       <header className="fixed w-full top-0 z-50 backdrop-blur-sm bg-opacity-80 border-b border-brown-200 dark:border-brown-500">
         <nav className="container mx-auto px-8 py-6 flex justify-between items-center">
-          <a href="#" className="text-2xl font-bold hover-float">DG</a>
+          <a href="#" className="text-2xl font-bold hover-float">✦DGS✦</a>
           <div className="flex items-center gap-8">
             <a href="#projects" className="hover:text-brown-400 transition-colors hover-float">Projects</a>
             <a href="#achievements" className="hover:text-brown-400 transition-colors hover-float">Achievements</a>
@@ -94,13 +94,13 @@ function App() {
             DAYANA GS
           </h1>
           <p className="text-2xl md:text-3xl text-brown-400 dark:text-cream-300 max-w-3xl mx-auto mb-12 font-light">
-            Full Stack Developer & Creative Problem Solver
+            Data Analyst 
           </p>
           <div className="flex justify-center gap-6">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="p-3 rounded-full hover:bg-brown-100 dark:hover:bg-brown-500 transition-colors hover-float">
+            <a href="https://github.com/Dayanags05/" target="_blank" rel="noopener noreferrer" className="p-3 rounded-full hover:bg-brown-100 dark:hover:bg-brown-500 transition-colors hover-float">
               <Github size={28} />
             </a>
-            <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="p-3 rounded-full hover:bg-brown-100 dark:hover:bg-brown-500 transition-colors hover-float">
+            <a href="https://www.linkedin.com/in/dayanags/" target="_blank" rel="noopener noreferrer" className="p-3 rounded-full hover:bg-brown-100 dark:hover:bg-brown-500 transition-colors hover-float">
               <Linkedin size={28} />
             </a>
           </div>
